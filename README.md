@@ -1,4 +1,4 @@
-frp101x
+fp101x
 =======
 
-EDX FRP101x
+EDX FP101x
